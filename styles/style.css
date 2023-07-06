@@ -46,43 +46,43 @@ header{
     margin-top: 20px;
 }
 
-.primera-seccion{
+.principal-section{
     width: 100%;
 }
 
-.primera-seccion img{
+.principal-section img{
     width: 100%;
 }
 
-.segunda-seccion{
+.secondary-section{
     padding: 20px 10px;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap ;
 }
 
-.segunda-seccion article{
+.secondary-section article{
     width: 50%;
     max-width: 500px;
 }
 
-.segunda-seccion__call-to{
+.secondary-section__call-to{
     text-align: center;
     padding: 20px;
 }
 
-.segunda-seccion__call-to *{
+.secondary-section__call-to *{
     margin: 15px 0;
 }
 
-.segunda-seccion__call-to h2{
+.secondary-section__call-to h2{
     font-size: 3rem;
 }
 
-.segunda-seccion__call-to p{
+.secondary-section__call-to p{
     font-size: 2rem;
 }
-.segunda-seccion a{
+.secondary-section a{
     background: #313633;
     border-radius: 4px;
     border: 1px solid black;
@@ -92,25 +92,25 @@ header{
     padding: 8px 20px;
 }
 
-.segunda-seccion__img-container img{
+.secondary-section__img-container img{
     width: 100%;
     max-width: 500px;
 }
 
-.tercera-seccion{
+.third-section{
     display: flex;
     flex-direction: column;
 }
 
-.tercera-seccion__container-text{
+.third-section__container-text{
     text-align: center;
 }
 
-.tercera-seccion__container-text h2{
+.third-section__container-text h2{
     font-size: 3rem;
 }
 
-.tercera-seccion__container-text p{
+.third-section__container-text p{
     font-size: 1.7rem;
 }
 
@@ -139,7 +139,7 @@ header{
     padding: 20px 0;
 }
 
-.tercera-seccion__container-img{
+.third-section__container-img{
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -206,7 +206,7 @@ textarea{
     max-width: 600px;
 }
 
-.galeria-container{
+.galery-container{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
